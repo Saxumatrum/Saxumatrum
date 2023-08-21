@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Saxumatrum
 - 👀 I’m interested in machine learning, AI, nanotechnology
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on any project with C++
-- 📫 How to reach me adjeimartey09@gmail.com +233 237114460
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on any project with deep learning
+- 📫 How to reach me +447310930921
 
 <!---
 Saxumatrum/Saxumatrum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

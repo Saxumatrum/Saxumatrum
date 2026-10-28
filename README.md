@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Saxumatrum
+- 🌐 Portfolio: https://adjetei-martey.vercel.app
 - 👀 I’m interested in machine learning, AI, nanotechnology
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on any project with deep learning

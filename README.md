@@ -2,7 +2,7 @@
 
 AI engineer in London with an MSc in Artificial Intelligence (Distinction). I build LLM products and production ML systems, and I've been shipping production software since 2019.
 
-🌐 **Portfolio:** [adjetei.com](https://www.adjetei.com) · 📫 **Email:** [adjeteimartey@gmail.com](mailto:adjeteimartey@gmail.com)
+🌐 **Portfolio:** [adjetei.com](https://www.adjetei.com) · 📫 **Email:** [hello@adjetei.com](mailto:hello@adjetei.com)
 
 ### What I'm building
 
